@@ -81,6 +81,7 @@ const Footer = () => {
             </div>
             </div>
             <p className="text-center text-xs pt-8">© 2025 Music School. All rights reserved.</p>
+          
         </footer>
       )
 }
